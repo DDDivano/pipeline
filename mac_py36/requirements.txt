@@ -1,3 +1,4 @@
 pytest-html
 pytest
 pytest-assume
+allure-pytest
