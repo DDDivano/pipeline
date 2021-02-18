@@ -23,4 +23,4 @@ export FLAGS_call_stack_level=2
     
 # done
 
-pytest -sv nn-test/test_abs.py
+pytest -sv test_abs.py
