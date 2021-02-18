@@ -19,7 +19,7 @@ do
 
     else
 
-        python -m pytest -sv ${file} --junitxml=result/${file##*/}_log.xml
+        python -m pytest ${file} --alluredir=report
 
     fi
 done
