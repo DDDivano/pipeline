@@ -9,6 +9,7 @@ test_randperm.py \
 test_lstm_cudnn.py \
 test_conv1d.py \
 test_truncatedNormalInitializer.py \
+test_randn.py \
 "
 for file in ${cases}
 do
